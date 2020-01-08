@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_IOBJ" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <IOBJ>
+    <INFOOBJECT>ZIOBJ1</INFOOBJECT>
+    <VERSION>A</VERSION>
+    <TYPE>CHA</TYPE>
+    <OBJSTAT>ACT</OBJSTAT>
+    <ACTIVFL>X</ACTIVFL>
+    <FIELDNM>/BIC/ZIOBJ1</FIELDNM>
+    <TEXTSHORT>Iobj key</TEXTSHORT>
+    <TEXTLONG>Iobj key</TEXTLONG>
+    <CHAPRSNT>2</CHAPRSNT>
+    <CHANAV>0</CHANAV>
+    <CHASEL>0</CHASEL>
+    <CHABASNM>ZIOBJ1</CHABASNM>
+    <DATATP>CHAR</DATATP>
+    <INTLEN>000010</INTLEN>
+    <CONVEXIT>ALPHA</CONVEXIT>
+    <CHKTAB>/BIC/MZIOBJ1</CHKTAB>
+    <BWAPPL>BW</BWAPPL>
+    <TXTTIMFL>0</TXTTIMFL>
+    <TXTTABFL>0</TXTTABFL>
+    <NUMBRANR>0001410</NUMBRANR>
+    <CNVSTATE>0</CNVSTATE>
+    <SIDCONVERT>N</SIDCONVERT>
+    <OUTPUTLEN>000010</OUTPUTLEN>
+    <CHNTAB>/BIC/PZIOBJ1</CHNTAB>
+    <F4QUERYEXEC>Q</F4QUERYEXEC>
+    <INFOAREA>NODESNOTCONNECTED</INFOAREA>
+    <LENG>000010</LENG>
+    <CHATP>GEN</CHATP>
+    <F4DEFAULT>M</F4DEFAULT>
+   </IOBJ>
+  </asx:values>
+ </asx:abap>
+</abapGit>
